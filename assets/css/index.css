@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-color: white;
+}
+
+.title {
+    color: red;
+    font-size: 150%;
+}
