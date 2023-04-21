@@ -1,0 +1,35 @@
+body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(style/img/pexels-aarti-vijay-2693529.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container2 {
+    border: 1px solid black;
+    border-radius: 7%;
+    padding: 1% 1% 1% 1%;
+    margin-top: 12%;
+    margin-left: 42%;
+    width: 10%;
+    background-color: white;
+}
+.content-title{
+    text-align: center;
+}
+.content-input-field p {
+    margin: 0%;
+}
+.content-button {
+    margin-left: 35%;
+}
+.content-footer {
+    text-align: center;
+    
+}
+
+
+
+
+
